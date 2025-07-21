@@ -13,6 +13,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/jasveer-sing-bhatia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jasveer-sing-bhatia" height="30" width="40" /></a>
 <a href="https://instagram.com/jasveer_singh_bhatia_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jasveer_singh_bhatia_" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/jasveer world" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jasveer world" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/jasveer_sing_bhatia19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jasveer_sing_bhatia19" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,6 +30,6 @@
 - 📚 Solved <strong>600+ coding problems</strong> across platforms like <strong>LeetCode, GeeksforGeeks, and HackerRank</strong>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasveersinghbhatia&show_icons=true&locale=en&layout=compact" alt="jasveersinghbhatia" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jasveersinghbhatia&show_icons=true&locale=en" alt="jasveersinghbhatia" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasveersinghbhatia&show_icons=true&locale=en&layout=compact" alt="jasveersinghbhatia" /></p>
