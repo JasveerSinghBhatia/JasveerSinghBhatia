@@ -22,7 +22,7 @@
 
 <h3 align="left">🏆 Achievements:</h3>
 
-- ✅ Solved <strong>400+ DSA questions on LeetCode</strong>  
+- ✅ Solved <strong>600+ DSA questions on LeetCode</strong>  
   <a href="https://leetcode.com/u/Jasveer_Singh_Bhatia19/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Visit_Profile-orange?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   </a>
